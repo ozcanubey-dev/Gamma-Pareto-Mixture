@@ -36,11 +36,11 @@ dependencies = [
 dynamic = ["version"]
 
 [project.urls]
-Homepage = "https://github.com/yourusername/gamma-pareto-mixture"
-Repository = "https://github.com/yourusername/gamma-pareto-mixture"
+Homepage = "https://github.com/ozcanubey-dev/gamma-pareto-mixture"
+Repository = "https://github.com/ozcanubey-dev/gamma-pareto-mixture"
 #Documentation = "https://gamma-pareto-mixture.readthedocs.io/"
-Issues = "https://github.com/yourusername/gamma-pareto-mixture/issues"
-Changelog = "https://github.com/yourusername/gamma-pareto-mixture/releases"
+Issues = "https://github.com/ozcanubey-dev/gamma-pareto-mixture/issues"
+Changelog = "https://github.com/ozcanubey-dev/gamma-pareto-mixture/releases"
 
 [project.optional-dependencies]
 test = [
