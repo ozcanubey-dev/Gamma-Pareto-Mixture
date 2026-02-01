@@ -19,4 +19,4 @@ A Python implementation of the Gamma-Pareto mixture distribution for modeling he
 ## Installation
 
 ```bash
-pip install gamma-pareto-mixture
+pip install gamma_pareto_mixture

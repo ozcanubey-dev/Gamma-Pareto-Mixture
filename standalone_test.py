@@ -1,4 +1,4 @@
-from GaPaDist import GammaParetoMixture, simulate_gamma_pareto_mixture, ks_test_gpm
+from gamma_pareto_mixture import GammaParetoMixture, simulate_gamma_pareto_mixture, ks_test_gpm
 import matplotlib.pyplot as plt
 
 # For standalone execution and testing
