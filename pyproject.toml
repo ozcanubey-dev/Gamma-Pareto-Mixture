@@ -3,7 +3,7 @@ requires = ["uv_build >= 0.9.26, <0.10.0"]
 build-backend = "uv_build"
 
 [project]
-name = "gamma-pareto-mixture"
+name = "gamma_pareto_mixture"
 version = "1.0.0"
 authors = [
   { name="Ubeydullah Ozcan", email="ozcanubey.dev@gmail.com" },
@@ -27,8 +27,8 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/pypa/sampleproject"
-Issues = "https://github.com/pypa/sampleproject/issues"
+Homepage = "https://github.com/ozcanubey-dev/Gamma-Pareto-Mixture"
+Issues = "https://github.com/ozcanubey-dev/Gamma-Pareto-Mixture/issues"
 
 [[tool.uv.index]]
 name = "testpypi"
