@@ -34,4 +34,3 @@ jobs:
       with:
         repository-url: https://test.pypi.org/legacy/
         verbose: true
-ß
