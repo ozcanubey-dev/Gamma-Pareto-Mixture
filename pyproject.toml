@@ -4,7 +4,7 @@ build-backend = "uv_build"
 
 [project]
 name = "gamma_pareto_mixture"
-version = "1.0.0"
+version = "1.0.1"
 authors = [
   { name="Ubeydullah Ozcan", email="ozcanubey.dev@gmail.com" },
 ]
