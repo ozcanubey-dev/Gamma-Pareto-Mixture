@@ -4,7 +4,7 @@ build-backend = "uv_build"
 
 [project]
 name = "gamma_pareto_mixture"
-version = "1.0.2"
+version = "1.0.3"
 authors = [
   { name="Ubeydullah Ozcan", email="ozcanubey.dev@gmail.com" },
 ]
@@ -19,11 +19,11 @@ license = "MIT"
 license-files = ["LICEN[CS]E*"]
 
 dependencies = [
-    "numpy>=2.4.0",
-    "pandas>=3.0.0",
-    "polars>=1.38.0",
-    "scipy>=1.17.0",
-    "matplotlib>=3.10.0",
+    "numpy",
+    "pandas",
+    "polars",
+    "scipy",
+    "matplotlib",
 ]
 
 [project.urls]
