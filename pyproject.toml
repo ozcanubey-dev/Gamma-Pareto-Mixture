@@ -4,11 +4,11 @@ build-backend = "uv_build"
 
 [project]
 name = "gamma_pareto_mixture"
-version = "1.0.3"
+version = "1.0.4"
 authors = [
   { name="Ubeydullah Ozcan", email="ozcanubey.dev@gmail.com" },
 ]
-description = "Gamma Pareto Mixture Disctribution"
+description = "Gamma Pareto Mixture Distribution"
 readme = "README.md"
 requires-python = ">=3.13"
 classifiers = [

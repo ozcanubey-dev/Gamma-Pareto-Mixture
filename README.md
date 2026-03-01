@@ -57,5 +57,5 @@ if __name__ == "__main__":
         theta=result['theta']
     )
     plt.show()
-    print("Done! Check 'plot_result_fatigue_example.png' for diagnostic plots.")
+    print("Done !")
 ```
